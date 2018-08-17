@@ -3,8 +3,11 @@ title: Assignment with a Returned Value
 ---
 ## Assignment with a Returned Value
 
-This is a stub. <a href='https://github.com/freecodecamp/guides/tree/master/src/pages/certifications/javascript-algorithms-and-data-structures/basic-javascript/assignment-with-a-returned-value/index.md' target='_blank' rel='nofollow'>Help our community expand it</a>.
-
-<a href='https://github.com/freecodecamp/guides/blob/master/README.md' target='_blank' rel='nofollow'>This quick style guide will help ensure your pull request gets accepted</a>.
-
 <!-- The article goes here, in GitHub-flavored Markdown. Feel free to add YouTube videos, images, and CodePen/JSBin embeds  -->
+Functions that return data, can be placeholders for that data. You can assign the returned output of a function with a variable. 
+
+Here is the basic code solution:
+
+```javascript
+processed = processArg(7); // Result is 2
+```
